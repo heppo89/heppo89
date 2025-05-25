@@ -10,6 +10,6 @@
 -HTML
 -Javascript
 
-aku pantang ~~menyerah~
+aku pantang ~~menyerah~~
 aku *pasti* **BISA**
 
